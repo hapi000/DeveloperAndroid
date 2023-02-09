@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mi_input_control_action"
+        android:icon="@drawable/ic_control"
+        android:title="@string/input_control_activity"/>
+    <item android:id="@+id/mi_listview_action"
+        android:icon="@drawable/ic_listview"
+        android:title="@string/listview_activity"/>
+    <item android:id="@+id/mi_recycleview_action"
+        android:icon="@drawable/ic_recycleview"
+        android:title="@string/recycleview_activity"/>
+    <item android:id="@+id/mi_quit_action"
+        android:icon="@drawable/ic_quit"
+        android:title="@string/quit"/>
+
+</menu>

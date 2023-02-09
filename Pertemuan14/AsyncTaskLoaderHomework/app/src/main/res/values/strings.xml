@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTaskLoader HW - Hapi</string>
+    <string name="get_page_source">Get Page Source</string>
+    <string-array name="http_protocol">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string name="loading">Loading...</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>

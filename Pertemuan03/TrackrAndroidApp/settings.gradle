@@ -1,0 +1,4 @@
+
+
+include ':shared', ':app', ':app-compose'
+rootProject.name = "trackr"

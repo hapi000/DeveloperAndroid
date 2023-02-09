@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Challenge</string>
+    <string name="SecondActivity">menu item</string>
+    <string name="keju">Keju</string>
+    <string name="nasi">Nasi</string>
+    <string name="apel">Apel</string>
+    <string name="teh">Teh</string>
+    <string name="add_btn">Add</string>
+</resources>

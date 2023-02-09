@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HelloSharedPrefs Challenge - Hapi</string>
+    <string name="blue_button">Blue</string>
+    <string name="green_button">Green</string>
+    <string name="red_button">Red</string>
+    <string name="black_button">Black</string>
+    <string name="default_count">0</string>
+    <string name="count_button">Count</string>
+    <string name="reset_button">Reset</string>
+    <string name="auto_save_count">Auto save count</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="background_color">Background color</string>
+    <string name="apply_amp_save">Save Preferences</string>
+    <string name="reset_preferences">Reset Preferences</string>
+
+    <string-array name="color_array">
+        <item>Default</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>

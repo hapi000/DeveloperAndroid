@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hapi App</string>
+    <string name="input_control_activity">input control activity</string>
+    <string name="listview_activity">listview activity</string>
+    <string name="recycleview_activity">recyclepview activity</string>
+    <string name="quit">quit</string>
+</resources>
